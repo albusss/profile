@@ -1,4 +1,3 @@
 # My projects
-===============
 
-- [Twitter like app on symfony 4](docs/CONTRIBUTING.md) 
+- [Twitter like app](https://github.com/albusss/Twitter-like-app) -  Twitter like app (symfony 4)
